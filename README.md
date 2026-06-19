@@ -40,7 +40,7 @@ A powerful document Q&A application that lets you upload PDFs and chat with them
 ![Chat](screenshots/chat.png)
 
 ### Chat with Questions Interface
-![Chat](screenshots/chatq.png)
+![Fullchat](screenshots/chatq.png)
 ---
 
 ## 🛠️ Tech Stack
